@@ -19,7 +19,7 @@ p .alinha{
     text-align: right;
 }
 .img-agro{
-    width: 300px;
+    width: 100px;
 }
 
 .br-3{
@@ -27,11 +27,11 @@ p .alinha{
 }
 
 .img-card{
-    max-height: 250px;
+    max-height: 200px;
 }
 
 .img-slide{
-    max-height: 400px;
+    max-height: 200px;
 }
 
 .footer{

@@ -12,14 +12,17 @@ body{
 }
 
 .cabecalho h3{
+    text-align: center;
     color: rgb(0, 0, 0);
 }
 
 p .alinha{
     text-align: right;
 }
-.img-agro{
-    width: 300px;
+.img-arvore{
+    border-radius: 15px;
+
+    max-width: 400px;
 }
 
 .br-3{
