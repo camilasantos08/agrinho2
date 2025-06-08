@@ -15,6 +15,24 @@ body{
     color: rgb(0, 0, 0);
 }
 
+
+
+        /* Bloco de texto com fundo verde claro */
+        .bloco-texto {
+            background-color: #d4edda; /* verde claro */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* leve sombra */
+            margin-top: 20px;
+        }
+
+        /* Rodapé com leve espaçamento */
+        .footer {
+            padding: 15px;
+            background-color: #f8f9fa;
+        }
+    
+
 p .alinha{
     text-align: right;
 }
